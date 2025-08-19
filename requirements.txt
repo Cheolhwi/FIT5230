@@ -1,0 +1,8 @@
+# Core libraries for Safe Stable Diffusion (no torch pin; Colab provides CUDA builds)
+diffusers>=0.31.0
+transformers>=4.43.0
+accelerate>=0.33.0
+ftfy>=6.2.0
+huggingface_hub>=0.24.0
+safetensors>=0.4.3
+Pillow>=10.2.0
